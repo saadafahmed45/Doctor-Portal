@@ -1,0 +1,24 @@
+.contact-section{
+    background:url("../../images/chair-halka.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:650px;
+    position:relative;
+}
+.contact-section::after{
+    height:650px;
+    content:' ';
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -50;
+    right: 0;
+    background-color:#3a4556;
+}
+.contact-form {
+    width: 55%;
+    margin-left: 24%;
+    margin-top: 40px;
+}
+/* .btn-primary */

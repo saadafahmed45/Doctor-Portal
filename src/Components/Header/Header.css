@@ -1,0 +1,28 @@
+/* .header{
+    background:url("../../images/chair-halka.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0px;
+    height: 100vh;
+} */
+
+.header-container {
+    background:url("../../images/chair-halka.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:700px;
+    position:relative;
+}
+.header-container::after{
+    height:700px;
+    content:' ';
+    position: absolute;
+    top: 0;
+    width: 30%;
+    z-index: -50;
+    right: 0;
+    background-color:#3a4556;
+}
+

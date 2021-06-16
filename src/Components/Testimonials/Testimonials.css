@@ -1,0 +1,13 @@
+.col-md-6.testimonials-icon svg {
+    font-size: 150px;
+    opacity: .1;
+    margin-left: 39%;
+}
+.col-md-6.testimonials-header h5 {
+    color: #0ee1e1;
+    font-weight: 600;
+
+}
+.testimonials-header{
+    text-align: left;
+}

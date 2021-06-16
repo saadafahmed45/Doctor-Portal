@@ -1,0 +1,18 @@
+.info-box {
+	background: #1CC7C1;
+	padding: 10px 10px;
+	width: 75%;
+    color:#fff;
+	margin-left: 14%;
+	
+}
+.info-box-sec {
+	background: #3a4556;
+	padding: 10px 10px;
+	width: 75%;
+    color:#fff;
+	margin-left: 14%;
+}
+.info-box svg {
+	font-size: 38px;
+}

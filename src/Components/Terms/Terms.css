@@ -1,0 +1,17 @@
+
+.terms-contant {
+    width: 83%;
+    margin-top: 8%;
+  }
+  .terms-contant h1 {
+    margin-right: 23%;
+    font-weight: 600;
+    color: #3a4556;
+  }
+  .terms-contant p {
+    margin-top: 5%;
+    margin-right: 5%;
+  }
+  .terms-btn {
+	margin-right: 76%;
+}

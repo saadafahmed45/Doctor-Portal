@@ -1,0 +1,25 @@
+
+.service-header h4 {
+    color: #1cc7c1;
+    font-weight: 600;
+    margin-top: 5%;
+  }
+  .service-header h1 {
+    font-weight: 600;
+    color: #3a4556;
+  }
+  .service-contant {
+	margin-top: 20%;
+}
+
+.service-contant img {
+    width: 30%;
+  }
+  .service-contant h5 {
+    margin-top: 11%;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .service-contant p {
+    opacity: 0.8;
+  }
