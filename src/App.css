@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+.text-brand{
+  color: #1cc7c1;
+}
+.bg-brand{
+  background: #1cc7c1;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

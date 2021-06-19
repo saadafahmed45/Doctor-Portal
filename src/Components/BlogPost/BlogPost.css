@@ -1,6 +1,6 @@
-.card:hover {
+.blog-card:hover {
 	background: #1CC7C1;
     color:#fff;
     transition: .4s;
-    margin-left: 5px;
+    /* margin-left: 5px; */
 }
