@@ -1,6 +1,7 @@
 import React from "react";
 import "./Footer.css";
 import { Link } from "react-router-dom";
+import { faBookmark, faSignOutAlt, faCalendar, faGripHorizontal, faStar,faUserMd } from '@fortawesome/free-solid-svg-icons';
 
 import FooterCol from "../FooterCol/FooterCol";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
