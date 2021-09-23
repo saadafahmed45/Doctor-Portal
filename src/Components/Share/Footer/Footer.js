@@ -77,7 +77,7 @@ const Footer = () => {
         </div>
 
         <div className="copyRight text-center">
-          <p>Copyright {new Date().getFullYear()} All Rights Reserved</p>
+          <p>Copyright {new Date().getFullYear()} All Rights Reserved webaidpro.org</p>
         </div>
       </div>
     </footer>

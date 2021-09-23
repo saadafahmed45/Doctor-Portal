@@ -11,7 +11,7 @@ const Doctors = () => {
 
         <div className="row">
           <div className="col-md-4 DoctorPic">
-            <img className="img-fluid" src={`http://localhost:5000/err.png`} />
+            <img className="img-fluid" src={DoctorPic} />
             <h6 style={{marginTop:"5%", fontWeight: " 600" }}>Dr.Riyaj Mahbub</h6>
             <span>
             <FontAwesomeIcon icon={faPhone} />
